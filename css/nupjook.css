@@ -1,0 +1,16 @@
+#nupjook-body img {
+  position: fixed;
+  width: 72px; height: 72px;
+  transform-origin: 40% 40%;
+  z-index: 99998;
+  opacity: 0;
+}
+
+#nupjook-arm img {
+  position: fixed;
+  width: 32px; height: 50px;
+  left: 300px;
+  transform-origin: 50% 5%;
+  z-index: 99997;
+  opacity: 0;
+}
